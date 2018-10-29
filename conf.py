@@ -308,7 +308,7 @@ COMPILERS = {
     # but is disabled by default as it would conflict
     # with many of the others.
     # "pandoc": ('.rst', '.md', '.txt'),
-    "org": ('.org',),
+    "orgmode": ('.org',),
 }
 
 # Create by default posts in one file format?
